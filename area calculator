@@ -1,0 +1,150 @@
+#include <iostream>
+using namespace std;
+class circle
+{private:
+float r,a,c;
+public:
+circle()
+{ 
+  r=0;
+}
+void access()
+{
+
+    std::cout<<"\n enter radius  "<<endl;
+    cin>>r;
+
+}
+void area();
+void circumference();
+void print();
+
+};
+void circle::area()
+{
+    a=3.14*r*r;
+
+}
+void circle::circumference()
+{
+    c=2*3.14*r;
+
+}
+void circle::print()
+{
+
+    std::cout<<"the radius is  "<<r<<endl;
+    std::cout<<"the area is  "<<a<<endl;
+    std::cout<<"the circumference is  "<<c<<endl;
+}
+ 
+ class square 
+ {
+     float side,sa;
+     public:
+     void gets()
+     {
+         std::cout<<"enter side "<<endl;
+         cin>>side;
+
+
+      
+
+     } 
+     void sqa()
+     {
+         sa=side*side;
+         
+     }
+     void prnt()
+     {
+         std::cout<<"side of square = "<<side<<endl;
+         std::cout <<"area of square = "<<sa<<endl;
+
+     }
+
+ };
+ 
+ class rectangle
+ {
+     float length,breadth,ra;
+     public:
+     void getlb()
+     {
+         std::cout<<"enter the length   "<<endl;
+         cin>>length;
+         std::cout<<"enter the breath  "<<endl;
+         cin>>breadth;
+
+
+     }
+     void reca()
+     {
+         ra=length*breadth;
+
+     }
+     void prt()
+     {
+         std::cout<<"length of rectangle  = "<<length<<endl;
+         std::cout<<"breadth of rectangle = "<<breadth<<endl;
+         std::cout<<"area of rectangle  = "<<ra<<endl;
+
+     }
+ };
+
+ class triangle
+ {
+     float base,height,ta;
+     public:
+     void getbh()
+     {
+         std::cout<<"enter the base "<<endl;
+         cin>>base;
+         std::cout<<"enter the height "<<endl;
+         cin>>height;
+         
+
+
+         
+
+     }
+     void tria()
+     {
+         ta=0.5*base*height;
+
+     }
+     void pt()
+     {
+         std::cout<<"base of the triangle = "<<base<<endl;
+         std::cout<<"height of triangle = "<<height<<endl;
+         std::cout<<"area of triangle = "<<ta<<endl;
+
+     }
+ };
+
+ 
+ int main ()
+ {
+     circle c;
+     c.access();
+     c.area();
+     c.circumference();
+     c.print();
+     square s1;
+     s1.gets();
+     s1.sqa();
+     s1.prnt();
+     rectangle r1;
+     r1.getlb();
+     r1.reca();
+     r1.prt();
+     triangle t1;
+     t1.getbh();
+     t1.tria();
+     t1.pt();
+     
+
+
+     return 0;
+
+ }
