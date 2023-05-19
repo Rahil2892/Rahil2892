@@ -4,7 +4,7 @@
 
 
 - 💖 **_Javascript_** 
-- ⚒️ currently learning [Firebase]()
+- ⚒️ currently learning [Blockchain]()
 - 👯 I’m looking to collaborate on **any thing JS related**
 - 💬 Ask me about **React, MongoDB**
 - 📫 How to reach me **rahilgavande@gmail.com**
