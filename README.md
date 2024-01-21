@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/rahil-gavande-051602222/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahil2892" height="30" width="40" />
 </a>
-<a href="https://rahil43.netlify.app/" target="blank">
+<a href="https://rahil2892.netlify.app/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/80545477/221855503-11bc18f0-7414-46bf-b705-a3dfe4e62d5a.png" alt="Rahil2892" width="35" />
 </a>
 <a href="https://www.instagram.com/rahil_2892/" target="blank">
