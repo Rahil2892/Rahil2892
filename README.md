@@ -21,9 +21,6 @@
 <a href="https://www.instagram.com/rahil_2892/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahil2892" height="30" width="40" />
 </a>
-<a href="https://discordapp.com/users/744514708882587690" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rahil2892" height="30" width="40" />
-</a>
 </p>
 
 <h3>Languages and Tools:</h3>
