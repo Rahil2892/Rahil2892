@@ -18,7 +18,7 @@
 <a href="https://rahil2892.netlify.app/" target="blank">
 <img align="center" src="https://github.com/Rahil2892/Rahil2892/assets/80545477/af732073-1e75-4bf7-b498-56b000ab2e8d" alt="Rahil2892" width="35" />
 </a>
-<a href="https://www.instagram.com/" target="blank">
+<a href="https://www.instagram.com/rahil_2892/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahil2892" height="30" width="40" />
 </a>
 </p>
